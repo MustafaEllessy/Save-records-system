@@ -1,0 +1,300 @@
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\dvTechnicalOffice.exe.config
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\dvTechnicalOffice.exe
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\dvTechnicalOffice.pdb
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Data.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Drawing.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Tutorials.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Utils.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraBars.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.DemoData.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.CodeParser.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Office.v22.1.Core.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Images.v22.1.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Data.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Utils.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraBars.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.Office.v22.1.Core.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.csprojResolveAssemblyReference.cache
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.Properties.Resources.resources
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.csproj.GenerateResource.Cache
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.exe
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.pdb
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.ucAdvisiors.resources
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.ucContractor.resources
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.ucSupplier.resources
+c:\users\nanochip\documents\visual studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.exe.licenses
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.frmTechnicalOffice.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\dvTechnicalOffice.exe.config
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.exe
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.pdb
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\dvTechnicalOffice.exe
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\dvTechnicalOffice.pdb
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Dashboard.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Tutorials.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Map.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraTreeMap.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.TreeMap.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.DemoData.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Dashboard.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Map.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraTreeMap.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.TreeMap.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Dashboard.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Dashboard.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Dashboard.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Map.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Map.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Map.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.frmTechnicalOffice.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.Properties.Resources.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.ucAdvisiors.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.ucContractor.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.ucSupplier.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.csproj.GenerateResource.Cache
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.exe.licenses
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.ucMain.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.AdvisiorsInput.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.ContractorInput.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.OfficeInput.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.SupplierInput.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.frmContact.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.UI.Modules.ucOffice.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.frmDivAndCat.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.frmContractDivsInput.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.csprojResolveAssemblyReference.cache
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\dvTechnicalOffice version 2\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.frmLog.resources
+D:\Version of programs 12-10-2022\برنامج المكتب الفنى\dvTechnicalOffice\bin\Debug\dvTechnicalOffice.exe.config
+D:\Version of programs 12-10-2022\برنامج المكتب الفنى\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.exe
+D:\Version of programs 12-10-2022\برنامج المكتب الفنى\dvTechnicalOffice\obj\Debug\dvTechnicalOffice.pdb

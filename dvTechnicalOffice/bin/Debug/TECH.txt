@@ -1,0 +1,10 @@
+Group of developers 
+group of hr 
+group of every field
+select  sn, divName,className,   GetList("Select catName From divInfo  Where T1.ColumnA = " & [T].[ColumnA],"",", ") AS ColumnBItemsfrom divInfo
+group by sn, divName,className;
+
+
+First([test1].[ColumnB]) & IIf(Count([test1].[ColumnB])>1,"," & Last([test1].[ColumnB])) AS ColumnB
+FROM test1
+GROUP BY test1.ColumnA;
